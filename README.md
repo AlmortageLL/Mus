@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝙍𝙊𝙔𝘼𝙇 ダ source 」──
+    ──「 Rio ダ source 」──
 </h2>
 
 <p align="center">
