@@ -3,6 +3,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://t.me/gobzela/783">
+  <img src="https://telegra.ph/file/18ba4d2a021959b10c366.jpg">
 </p>
 
