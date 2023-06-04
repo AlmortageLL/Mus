@@ -1,7 +1,7 @@
 {
-    "name": "Rio ダ ᴍᴜsɪᴄ",
+    "name": "𝚁𝙾𝚈𝙰𝙻 ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://telegra.ph/file/18ba4d2a021959b10c366.jpg<",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "Rio ダ ᴍᴜsɪᴄ",
+        "value": "𝚁𝙾𝚈𝙰𝙻 ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
