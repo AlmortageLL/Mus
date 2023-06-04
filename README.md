@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 Rio ダ source 」──
+    ──「 𝙍𝙊𝙔𝘼𝙇 ダ source 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph//file/00510ca5525bde3e62780.jpg">
+  <img src="https://t.me/gobzela/783">
 </p>
 
