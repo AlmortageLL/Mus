@@ -64,14 +64,13 @@ HELP_4 = """🍒 **<u>ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ</u>** [ᴏɴʟ
 
 **ᴇxᴀᴍᴩʟᴇ:** `/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ`
 """
-HELP_5 = """⚡<u>⌞ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙄𝙊 :</u>
+HELP_5 = """⚡<u>⌞ 𝚂𝙾𝚄𝚁𝙲𝙴 𝚁𝙾𝚈𝙰𝙻 :</u>
 
-[ᯓ 𝙍𝙄𝙊)⏤‌𓆃](https://t.me/Y_U_A_R)
+[ᯓ 𝗕𝗘𝗜𝗚𝗘𝗞𝗔)⏤‌𓆃](https://t.me/P_1YY)
 
+ᯓ ALMORTAGEL)⏤‌𓆃](https://t.me/Almortagel_12)
 
-
-
-
+ᯓ 𝐀𝐁𝐔✧𝐄𝐒𝐒𝐀𝐌)⏤‌𓆃](https://t.me/dq_4G)
 
 """
 
